@@ -1,5 +1,4 @@
 # Predictive-Analysis-Projects
-# Predictive Analysis Projects
 
 ## Overview
 This repository showcases collaborative group projects in Predictive Analysis undertaken at UPES. These projects leverage advanced machine learning and deep learning models to address diverse real-world challenges in fields such as mental health, women safety, and crop disease detection.
